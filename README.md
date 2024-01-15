@@ -9,7 +9,7 @@
 
 - 🔭 My Live projects [Atmosphere Connect](https://play.google.com/store/search?q=Atmosphere%20connect&c=apps&hl=en&gl=US), [FieldOn](https://play.google.com/store/search?q=fieldon&c=apps),  [Digorb](https://play.google.com/store/apps/details?id=com.taskmo.amazo),  [Taskmo Superpartner](https://play.google.com/store/apps/details?id=com.taskmo.supermanager)
 
-- 🌱 I’m currently learning Jetpack Compose,CI/CD pipeline,Kotlin KMM, And A lot more
+- 🌱 I’m currently learning Kotlin KMM, Compose Multiplatform, Open GL, Neural Network in android And A lot more
 
 - 👨‍💻 Check my profile for more works [Github](https://github.com/gaurav844/)
 
