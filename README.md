@@ -4,14 +4,14 @@
 
 <h1 align="left">Hi 👋, I'm Gaurav Gaikwad</h1>
 <h3 align="left">About Me</h3>
-<p>I'm a native Android Developer with 4+ years of experience in Java, Android and Kotlin. I have A good experiance as a Freelancer and also worked in product based startups and have experience in delivering complex features in apps with big user bases.</p>
+<p>I'm a native Android Developer with 6+ years of experience in Java, Android and Kotlin. I have A good experiance as a Freelancer and also worked in startups and well settled companies, I have experience in delivering complex features in apps with big user bases.</p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 
 - 🔭 My Live projects [Atmosphere Connect](https://play.google.com/store/search?q=Atmosphere%20connect&c=apps&hl=en&gl=US), [FieldOn](https://play.google.com/store/search?q=fieldon&c=apps),  [Digorb](https://play.google.com/store/apps/details?id=com.taskmo.amazo),  [Taskmo Superpartner](https://play.google.com/store/apps/details?id=com.taskmo.supermanager)
 
 - 🌱 I’m currently learning Kotlin KMM, Compose Multiplatform, Open GL, Neural Network in android And A lot more
 
-- 👨‍💻 Check my profile for more works [Github](https://github.com/gaurav844/)
+- 👨‍💻 Checkout my linkedin profile for more works [LinkedIn](https://www.linkedin.com/in/gaurav-gaikwad-ab9035159/))
 
 - 📫 How to reach me **gaikwad.gaurav18@gmail.com**
 
