@@ -22,7 +22,7 @@ A SaaS product for Snooker parlors, integrating IoT and Bluetooth (BLE) for auto
 - Kotlin Multiplatform / Compose Multiplatform.
 - IOS development.
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1CKHmR1iD9hsmZUOCxQsxpv4nEY64S7mI/view?usp=sharing)
+ 📄 Know about my experiences [Resume]([[https://drive.google.com/file/d/1CKHmR1iD9hsmZUOCxQsxpv4nEY64S7mI/view?usp=sharing](https://drive.google.com/file/d/1w7YAwn0e9__Xpln4de0vD-OM_lC6l5cs/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
