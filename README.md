@@ -8,16 +8,14 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 
 📂 Featured Projects
-[Atmosphere Connect](https://play.google.com/store/search?q=Atmosphere%20connect&c=apps&hl=en&gl=US)
+- [Atmosphere Connect](https://play.google.com/store/search?q=Atmosphere%20connect&c=apps&hl=en&gl=US)
 Air quality monitoring app with BLE/Wi-Fi connectivity.
 Built with Kotlin, following MVVM architecture and leveraging Jetpack Compose.
-[FieldOn](https://play.google.com/store/search?q=fieldon&c=apps) | [Digorb](https://play.google.com/store/apps/details?id=com.taskmo.amazo)
+- [FieldOn](https://play.google.com/store/search?q=fieldon&c=apps) | [Digorb](https://play.google.com/store/apps/details?id=com.taskmo.amazo)
 Field management app with real-time location tracking and payment solutions.
 Developed using MVP, Crashlytics, and Google Vision APIs.
- [Taskmo Superpartner](https://play.google.com/store/apps/details?id=com.taskmo.supermanager)
-AI-Based SDKs
-Created a low-light enhancement SDK using TFLite and CameraX for real-time image optimization.
-[SnookerKart]
+- [Taskmo Superpartner](https://play.google.com/store/apps/details?id=com.taskmo.supermanager)
+- [SnookerKart]
 A SaaS product for Snooker parlors, integrating IoT and Bluetooth (BLE) for automated table controls.
 
 🌱 Currently Learning
