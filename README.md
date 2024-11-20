@@ -7,15 +7,24 @@
 <p>I’m a passionate Android Developer with 5+ years of experience in building scalable, feature-rich mobile applications. From leveraging Kotlin for clean and modular development to integrating AI models for edge devices, I enjoy creating impactful digital solutions.</p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 
-- 🔭 My Live projects [Atmosphere Connect](https://play.google.com/store/search?q=Atmosphere%20connect&c=apps&hl=en&gl=US), [FieldOn](https://play.google.com/store/search?q=fieldon&c=apps),  [Digorb](https://play.google.com/store/apps/details?id=com.taskmo.amazo),  [Taskmo Superpartner](https://play.google.com/store/apps/details?id=com.taskmo.supermanager)
+📂 Featured Projects
+[Atmosphere Connect](https://play.google.com/store/search?q=Atmosphere%20connect&c=apps&hl=en&gl=US)
+Air quality monitoring app with BLE/Wi-Fi connectivity.
+Built with Kotlin, following MVVM architecture and leveraging Jetpack Compose.
+[FieldOn](https://play.google.com/store/search?q=fieldon&c=apps) | [Digorb](https://play.google.com/store/apps/details?id=com.taskmo.amazo)
+Field management app with real-time location tracking and payment solutions.
+Developed using MVP, Crashlytics, and Google Vision APIs.
+ [Taskmo Superpartner](https://play.google.com/store/apps/details?id=com.taskmo.supermanager)
+AI-Based SDKs
+Created a low-light enhancement SDK using TFLite and CameraX for real-time image optimization.
+[SnookerKart]
+A SaaS product for Snooker parlors, integrating IoT and Bluetooth (BLE) for automated table controls.
 
-- 🌱 I’m currently learning Kotlin KMM, Compose Multiplatform And A lot more
+🌱 Currently Learning
+- Kotlin Multiplatform / Compose Multiplatform.
+- IOS development.
 
-- 👨‍💻 Checkout my linkedin profile for more works [LinkedIn](https://www.linkedin.com/in/gaurav-gaikwad-ab9035159/))
-
-- 📫 How to reach me **gaikwad.gaurav18@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CKHmR1iD9hsmZUOCxQsxpv4nEY64S7mI/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1CKHmR1iD9hsmZUOCxQsxpv4nEY64S7mI/view?usp=sharing](https://drive.google.com/file/d/1w7YAwn0e9__Xpln4de0vD-OM_lC6l5cs/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
